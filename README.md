@@ -1,17 +1,17 @@
 <h1 align="center"> Hi there 👋, I am Rachana Raut </h1>
  <br>
- <h3 align="center"> 📱 Android app Development || 👩‍💻 Data Structure and Algorithms || 🅰 Angular </h3>
+ <h3 align="center"> 📱 Android app Development || 👩‍💻 Data Structure and Algorithms || ⚛ React </h3>
  <p> Here's a little bit about me,</p>
  
 - 👩‍💻 I am a final year CSE student
 
-- 💻 I am a development enthusiat and recently have started taking little steps in the field of Machine Learning and Deep Learning
+- 💻 I am a development enthusiat and recently have started taking tint steps in the field of Machine Learning and Deep Learning
 
-- ⌨ Prefered coding language : **Java, but I also know about Python and CPP**
+- ⌨ Prefered coding language : **Java, but I alsohave expereince with Python and CPP**
 
-- 🌱 Currently learning about **React , Matlab** 
+- 🌱 Currently learning about **SpringBoot , Matlab** 
 
-- 💬 We can discuss about **Data structure, Android app Development,Web Development using Angular**
+- 💬 We can discuss about **Data structure, Android app Development,Web Development using React**
 
 - 📧 Contact me : **rachanaraut1999@gmail.com**
 
