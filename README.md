@@ -9,6 +9,8 @@
 
 - ⌨ Prefered coding language : **Java, but I alsohave expereince with Python and CPP**
 
+- 🔭 I’m currently working on : React Clones, Image fusion of visible and IR images and Space Debris classification using DL
+
 - 🌱 Currently learning about **SpringBoot , Matlab** 
 
 - 💬 We can discuss about **Data structure, Android app Development,Web Development using React**
