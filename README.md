@@ -7,13 +7,13 @@
 
 - 💻 I am a development enthusiat and recently have started taking tint steps in the field of Machine Learning and Deep Learning
 
-- ⌨ Prefered coding language : **Java, but I alsohave expereince with Python and CPP**
+- ⌨ Prefered coding language : **Java, but I also have experience with Python and CPP**
 
 - 🔭 I’m currently working on : React Clones, Image fusion of visible and IR images and Space Debris classification using DL
 
-- 🌱 Currently learning about **SpringBoot , Matlab** 
+- 🌱 Currently learning about **SpringBoot** 
 
-- 💬 We can discuss about **Data structure, Android app Development,Web Development using React**
+- 💬 We can discuss about **Data structure, Android app Development, Web Development using React**
 
 - 📧 Contact me : **rachanaraut1999@gmail.com**
 
