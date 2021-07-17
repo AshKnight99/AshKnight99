@@ -9,7 +9,7 @@
 
 - ⌨ Prefered coding language : **Java, but I also have experience with Python and CPP**
 
-- 🔭 I’m currently working on : React Clones, Image fusion of visible and IR images and Space Debris classification using DL
+- 🔭 I’m currently working on : React Clones
 
 - 🌱 Currently learning about **SpringBoot** 
 
