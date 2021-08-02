@@ -3,13 +3,13 @@
  <h3 align="center"> 📱 Android app Development || 👩‍💻 Data Structure and Algorithms || ⚛ React </h3>
  <p> Here's a little bit about me,</p>
  
-- 👩‍💻 I am a final year CSE student
+- 👩‍💻 Software Engineer II at Walmart Global Tech
 
-- 💻 I am a development enthusiat and recently have started taking tint steps in the field of Machine Learning and Deep Learning
+- 💻 I am a development enthusiat 
 
 - ⌨ Prefered coding language : **Java, but I also have experience with Python and CPP**
 
-- 🔭 I’m currently working on : React Clones
+- 🔭 I’m currently working on : React and Springboot projects 
 
 - 🌱 Currently learning about **SpringBoot** 
 
